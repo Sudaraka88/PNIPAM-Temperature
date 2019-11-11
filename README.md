@@ -1,4 +1,5 @@
 If you use our data or code, please cite:
+
 @Article{Mallawaarachchi2019Machine,
 author ="Mallawaarachchi, Sudaraka and Liu, Yiyi and Thang, San H. and Cheng, Wenlong and Premaratne, Malin",
 title  ="Machine learning based temperature prediction of poly(N-isopropylacrylamide)-capped plasmonic nanoparticle solutions",
