@@ -1,3 +1,14 @@
+If you use our data or code, please cite:
+@Article{Mallawaarachchi2019Machine,
+author ="Mallawaarachchi, Sudaraka and Liu, Yiyi and Thang, San H. and Cheng, Wenlong and Premaratne, Malin",
+title  ="Machine learning based temperature prediction of poly(N-isopropylacrylamide)-capped plasmonic nanoparticle solutions",
+journal  ="Phys. Chem. Chem. Phys.",
+year  ="2019",
+pages  ="-",
+publisher  ="The Royal Society of Chemistry",
+doi  ="10.1039/C9CP04544A",
+url  ="http://dx.doi.org/10.1039/C9CP04544A"}
+
 ## PNIPAM-Temperature ##
 UV-Vis spectroscopic absorption data for PNIPAM-capped gold nanorod and nano bi-pyramid particles are available from the RAW folder. Additional Matlab/Python code are provided for replication. 
 
