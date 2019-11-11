@@ -1,4 +1,5 @@
 If you use our data or code, please cite:
+
 Mallawaarachchi, Sudaraka, et al. "Machine learning-based temperature prediction of poly (N-isopropyl acrylamide)-capped plasmonic nanoparticle solutions." Physical Chemistry Chemical Physics (2019).
 
 ## PNIPAM-Temperature ##
