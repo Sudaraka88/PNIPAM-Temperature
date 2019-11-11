@@ -20,5 +20,4 @@ Generates the output specified by the header information. Possible alternatives 
 
 All other code are called by the methods/functions listed above. Please refer to the comments within the code files for more information.
 
-The entire setup was coded and tested on a Linux machine.
 If you run into any issues, you can reach me at smallawaarachchi@gmail.com
